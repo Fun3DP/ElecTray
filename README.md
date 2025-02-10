@@ -34,18 +34,22 @@ This is a personal project I’ve been working on for a while during my first Vo
 <td>
 Things you will need:<br>
   - Runners 450mm (18")<br>
+  https://www.amazon.co.uk/dp/B08BKKYLK7?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1<br>
+Extrusions:<br>
   - x2 2020 335mm<br>
   - x1 2020 90mm<br>
   - x4 2060 50mm<br>
   - x2 2040 300mm<br>
   - x2 2040 467mm<br>
   - x1 2020 261<br>
+  - x1 2040 75mm (for BTT HDMI5 Mount)<br>
   - x24 90 Degree Angle Corner (at least x6 must be like this:<br>
     https://ooznest.co.uk/product/90-degree-angle-corner/ )<br>
+Other:<br>
   - x6 WAGO (5way)<br>
   - 467x302 tray (Mesh or Solid)<br>
-  - x1 2040 75mm (for BTT HDMI5 Mount)<br>
-  - Drag Chain (not wider than 38mm - I used 10x30mm)<br><br>
+  - Drag Chain (not wider than 38mm - I used 10x30mm)<br>
+  https://www.amazon.co.uk/dp/B07MG5FZLN?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1 <br>
 </td>
 </tr>
 </table>
