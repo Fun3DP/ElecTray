@@ -8,14 +8,6 @@
 A drawer mod for Voron's 2.4 electronic components (350mm only)
 </p>
 
-<p align="center">
-  <a aria-label="Downloads" href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/releases"><img src="https://img.shields.io/github/release/Enraged-Rabbit-Community/ERCF_v2?display_name=tag&style=flat-square"></a> &nbsp;
-  <a aria-label="Stars" href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/stargazers"><img src="https://img.shields.io/github/stars/Enraged-Rabbit-Community/ERCF_v2?style=flat-square"></a> &nbsp;
-  <a aria-label="Forks" href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/network/members"><img src="https://img.shields.io/github/forks/Enraged-Rabbit-Community/ERCF_v2?style=flat-square"></a> &nbsp;
-  <a aria-label="License" href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Enraged-Rabbit-Community/ERCF_v2?style=flat-square"></a> &nbsp;
-  <a aria-label="Commits" href=""><img src="https://img.shields.io/github/commit-activity/y/Enraged-Rabbit-Community/ERCF_v2"></a> &nbsp;
-</p>
-
 <br>
 
 <table>
