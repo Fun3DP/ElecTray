@@ -50,6 +50,11 @@ Things you will need:<br>
 
 <br>
 
+## STL
+I have modified the necessary models, such as the skirting, to ensure they fit the modification properly. Additionally, I have designed and created new models as needed to facilitate the project's progress. These include an adapter for the Manta M8P board, slightly modified WAGO shelves to better suit the updated design, and a refined BTT HDMI 5" mount for improved compatibility (source...). Each modification was made to enhance functionality, optimize integration, and ensure seamless assembly within the updated setup<br>
+
+<br>
+
 ## CAD
 <table>
 <tr>
