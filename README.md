@@ -21,8 +21,7 @@ This is a personal project I’ve been working on for a while during my first Vo
   
 **[BOM](#bom)**<br>
 **[CAD](#cad)**<br>
-**[Acknowledgements](#acknowledgements)**<br>
-**[Vendors](#vendors)**<br>
+**[STL](#stl)**<br>
 **[Changelog](#changelog)**<br>
 **[Build Photos](#build-photos)**<br>
 <!--
