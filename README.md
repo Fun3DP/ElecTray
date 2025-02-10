@@ -29,7 +29,7 @@ This is a personal project I’ve been working on for a while during my first Vo
 ## BOM
 <table>
 <tr>
-<td width=30%><img src="Assets/BOM2.png" alt='ElecTray's BOM'></td>
+<td width=30%><img src="Assets/BOM_2.png" alt='ElecTray's BOM'></td>
 <td>
 Things you will need:<br>
   - <br>
