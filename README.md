@@ -1,6 +1,6 @@
 <p align="center">
   <img src="/Assets/Main.png" alt='ElecTray' width='70%'>
-  <h1 align="center">ElecTray</h1>
+#  <h1 align="center">ElecTray</h1>
 </p>
 
 <p align="center">
