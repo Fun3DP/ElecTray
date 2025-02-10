@@ -1,7 +1,7 @@
 # ElecTray
 <p align="center">
   <img src="/Assets/Full_CAD.jpg" alt='ERCFv2' width='70%'>
-  <h1 align="center">ERCF v2 - RC1</h1>
+  <h1 align="center">ElecTray</h1>
 </p>
 
 <p align="center">
