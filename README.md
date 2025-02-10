@@ -76,20 +76,8 @@ I have created a CAD model for reference purposes only, allowing you to understa
 
 ## Changelog
 <ul>
-  <li>v2.0 rc1 - Initial Release (Merry Christmas!)
+  <li>v1.0 - Initial Release (Enjoy!)
 </ul>
-
-CAD Design Guidelines used in this project (in case you were interested) can be found: [here](/Assets/Dev_Notes.md).
-
-<hr>
-
-<p align="center"><i>
-There once was a printer so keen,<br>
-To print in red, yellow, and green.<br>
-It whirred and it spun,<br>
-Mixing colors for fun,<br>
-The most vibrant prints ever seen!
-</i></p>
 
 <br>
 
