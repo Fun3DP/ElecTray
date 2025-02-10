@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-A drawer mod for Voron's 2.4 electronic components (350mm only)
+A drawer mod for the Voron 2.4's electronic components (350mm only)
 </p>
 
 <br>
@@ -14,156 +14,37 @@ A drawer mod for Voron's 2.4 electronic components (350mm only)
 <tr>
 <td width=30%><img src="/Assets/ElecTray.png"</td>
 <td>
-This is a little project I’ve been working on for a while during my first Voron build. I have a heavily modified Sidewinder X2 printer, and having good access to electronics was my top priority when upgrading it. So, I took the same approach with the Voron 2.4. This mod has already proven to be very useful and convenient, as I’ve already needed access to rectify certain issues.
+This is a personal project I’ve been working on for a while during my first Voron build. I also have a heavily modified Sidewinder X2 printer, where easy access to electronics was my top priority during upgrades. With that in mind, I took the same approach when working on my Voron 2.4. This modification has already proven to be highly useful and convenient, as it has allowed me to quickly access and rectify certain issues as they arise.
 <p>
 </table>
 
 ## Table of Content
   
-**[ERCF](#enraged-rabbit-carrot-feeder-ercf)**<br>
-**[ERCT](#enraged-rabbit-cotton-tail-erct)**<br>
-**[ERF](#enraged-rabbit-filametrix-erf)**<br>
-**[Toolhead Sensor Modifications](#toolhead-sensor-modifications)**<br>
-**[Firmware](#firmware)**<br>
-**[Documentation](#documentation)**<br>
 **[BOM](#bom)**<br>
 **[CAD](#cad)**<br>
-**[FAQ](#faq)**<br>
 **[Acknowledgements](#acknowledgements)**<br>
 **[Vendors](#vendors)**<br>
 **[Changelog](#changelog)**<br>
 **[Build Photos](#build-photos)**<br>
-**[Showroom](#user-print-showroom)**<br>
 <!--
 **[FAQ](Assets/FAQ.md)
 -->
 
 <br>
 
-## Enraged Rabbit Carrot Feeder (ERCF)
-<table>
-<tr>
-<td width=45%><img src="/Assets/ERCFv2.png">An MMU or Multimaterial Unit/Upgrade allows for the automatic change of filaments on your 3D printer.  You can use it to create beautiful multi-colored prints or, if you're lazy, simply to avoid loading filament by hand. If you are familiar with ERCF v1.1, this will serve as an overview of updates:</td>
-<td>
-<ol>
-  <li>Sturdy backbone - no more flex
-  <li>Reliable (and custom) encoder design
-  <li>Sprung servo instead of adjustable top hats
-  <li>Innovative Filament trap in blocks instead of magnetic gates
-  <li>Formal filament bypass
-  <li>Reinforced gearbox assembly
-  <li>Beautifully illustrated Manual
-  <li>High Quality Step-by-step CAD
-  <li>New integrated passive buffer system (Cotton Tail)
-  <li>Perfect tips with Filametrix Filament cutter
-  <li>Functional and aesthetic LED status indication
-</ol>
-</td>
-</tr>
-</table>
-
-<br>
-
-## Optional Enraged Rabbit Components
-
-### Enraged Rabbit Cotton Tail (ERCT)
-<table>
-<tr>
-<td width=30%><img src="Recommended_Options/ERCT_Buffer/Assets/heroimage_ERCT.png" alt='ERCT'></td>
-<td>
-When an MMU changes tool, the unloaded filament needs to be thoughtfully managed so that it doesn't tangle. The Enraged Rabbit Cotton Tail (ERCT) buffer system is designed to attach directly to ERCF V2. It is a passive system that optimizes space and is also designed to reduce resistance in the filament path, creating a consistent system for calibration.
-<p>
-
-ERCT includes a pregate filament sensor to more reliably manage endless spools. It also incorporates a NEOpixel on each gate that, when driven by the Happy Hare firmware, provides functional feedback and the necessary "bling!" Enjoy!
-<p>
-
-[Read more](Recommended_Options/ERCT_Buffer/README.md) &nbsp;&nbsp; Videos: [Rear Loading](https://youtu.be/9jzB5Un6HKo) [Front Loading](https://youtu.be/GlSXtUkd-b8)
-</td>
-</tr>
-</table>
-
-<br>
-
-### Enraged Rabbit Filametrix (ERF)
-<table>
-<tr>
-<td>
-Before the MMU can unload a filament, the tip must be prepared so that it can be cleanly loaded next time.  This tip-forming process is very difficult to tune and varies based on material type, temperature, hotend type and even weather!  Introducing Enraged Rabbit Filametrix (ERF) filament cutting system.  This lightweight addition to your Stealthburner toolhead adds a cutting blade.  When retracting, the problematic tip of the filament is simply cut off for perfect tips and no jams.
-<p>
-
-ERF also supports an optional servo operated ganrtry activation pin so no print area is lost with this addition. ERF designs also include the recommended integrated toolhead sensor
-<p>
-
-[Read more](Recommended_Options/ERF_Filament_Cutter/README.md)
-</td>
-<td width=30%><img src="Recommended_Options/ERF_Filament_Cutter/Assets/ERF.png" alt='ERF'></td>
-</tr>
-</table>
-
-<br>
-
-### Toolhead Sensor Modifications
-<table>
-<tr>
-<td>
-ERCF can be operated without a toolhead sensor (filament detection) in the toolhead but it is **not recommended**. A toolhead sensor provides an accurate homing point very close to the nozzle but also adds reliability to the tool change process. ERCF includes a set of toolhead sensor modifications for popular extruders. These work reliably through coupling a microswitch to the filament path.
-<p>
-
-[Read more](Recommended_Options/Toolhead_Modifications/README.md)
-</td>
-</tr>
-</table>
-
-<br>
-
-### Purge System (ERPS)
-Pellet purge system to remove the need for the wipe tower. Stay tuned.
-
-<br>
-
-## Firmware
-<table>
-<tr>
-<td width=30%><img src="https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition/blob/master/docs/img/mmu/mmu_main.png" alt='KlipperScreen'></td>
-<td>
-ERCF is designed to be used with the Happy Hare MMU firmware for Klipper which adds a set of klipper extensions for configuration setup, testing and operation of ERCF. These commands are available through the command line or macros but are perhaps best operated with an interactive UI with the optional KlipperScreen extension.
-<p>
-
-Happy Hare provides an easy installation script which has knowledge of recommended settings and will greatly accelerate the setup process.
-<p>
-
-[Happy Hare](https://github.com/moggieuk/Happy-Hare/wiki) &nbsp;&nbsp; [KlipperScreen](https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition)
-</td>
-</tr>
-</table>
-
-<br>
-
-## Documentation
-<table>
-<tr>
-<td>
-Building something as complex as an MMU is a challenging undertaking, but the ERCFv2 project contains an amazingly detailed and illustrated manual with step-by-step instructions.  We have tried to make the process similar to fitting together a jigsaw puzzle, albeit with a few optional pieces.
-<p>
-
-[ERCFv2 PDF Manual](Documentation/ERCF_v2_Manual.pdf)
-</td>
-<td width=30%><img src="Assets/Manual_Page.png" alt='ERCF Manual'></td>
-</tr>
-</table>
-
-<br>
-
 ## BOM
 <table>
 <tr>
-<td width=30%><img src="Assets/BOM.png" alt='ERCF Project BOM'></td>
+<td width=30%><img src="Assets/BOM.png" alt='ElecTray's BOM'></td>
 <td>
-You can find a Bill of Materials (BOM) and a convenient printed parts tracker for the project and options here. Note that the BOM also contains an upgrade list for those of you who want to use your existing ERCF v1.1 kits. Please make a copy and edit the "Filament Blocks #" to be the number of gates for your build.  This can be any number, but we encourage kit vendors to use 4/8/12 as size variations. Note that there are separate columns for core ERCF, the optional ERCT and ERF options, as well as the suggested "extras"
-<p>
-Please be aware that the BOM is strictly for reference. The recommended parts can be exchanged for other similar quality parts. Manufacturers who use the BOM as a reference must submit an application for certification before selling them as ERCF V2 kits. Please contact us for certification.
+Things you will ned:
+  -
+  -
+  -
+  -
+  -
+  -
 
-[BOM](https://docs.google.com/spreadsheets/d/1HtVIu4yqzS6xJQr63-JKtMAh4Xq7wbtWPFeuiCnrnnE) &nbsp;&nbsp; [Printed Parts Tracker](https://docs.google.com/spreadsheets/d/1h1bJurR6Z8Ou36c5U9cWmqI86tXKlWrcZrWrHgGN13A)
 </td>
 </tr>
 </table>
@@ -174,7 +55,7 @@ Please be aware that the BOM is strictly for reference. The recommended parts ca
 <table>
 <tr>
 <td>
-A lot of work has gone into creating a quality CAD model of the project, carefully organized into folders that match the documentation!  It is highly recommended that you open the CAD and hide every folder and then expose them one at a time as you work through the build.
+I have created a CAD model for reference purposes only, allowing you to understand its construction, visualize its design, and see how it functions. While it is not intended for direct use, it provides a detailed overview of the mod’s structure and mechanics
 <p>
 
 [Master CAD](CAD)
