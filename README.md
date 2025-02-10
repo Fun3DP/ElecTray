@@ -34,6 +34,7 @@ This is a personal project I’ve been working on for a while during my first Vo
 <td>
 Things you will need:<br>
   - Drawer Runners 450mm (18")<br>
+Extrusions:<br>
   - x2 2020 335mm<br>
   - x1 2020 90mm<br>
   - x4 2060 50mm<br>
