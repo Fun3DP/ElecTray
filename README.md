@@ -33,9 +33,7 @@ This is a personal project I’ve been working on for a while during my first Vo
 <td width=50%><img src="Assets/BOM.png" alt='ElecTray's BOM'></td>
 <td>
 Things you will need:<br>
-  - Runners 450mm (18")<br>
-  https://www.amazon.co.uk/dp/B08BKKYLK7?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1<br>
-Extrusions:<br>
+  - Drawer Runners 450mm (18")<br>
   - x2 2020 335mm<br>
   - x1 2020 90mm<br>
   - x4 2060 50mm<br>
@@ -49,7 +47,6 @@ Other:<br>
   - x6 WAGO (5way)<br>
   - 467x302 tray (Mesh or Solid)<br>
   - Drag Chain (not wider than 38mm - I used 10x30mm)<br>
-  https://www.amazon.co.uk/dp/B07MG5FZLN?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1 <br>
 </td>
 </tr>
 </table>
