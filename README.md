@@ -40,7 +40,8 @@ Things you will need:<br>
   - x2 2040 300mm<br>
   - x2 2040 467mm<br>
   - x1 2020 261<br>
-  - x24 Corners Joints<br>
+  - x24 90 Degree Angle Corner (at least x6 must be like this:<br>
+https://ooznest.co.uk/product/90-degree-angle-corner/
   - x6 WAGO (5way)<br>
   - 467x302 tray (Mesh or Solid)<br>
   - x1 2040 75mm (for BTT HDMI5 Mount)<br>
