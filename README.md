@@ -32,13 +32,18 @@ This is a personal project I’ve been working on for a while during my first Vo
 <td width=50%><img src="Assets/BOM.png" alt='ElecTray's BOM'></td>
 <td>
 Things you will need:<br>
-  - <br>
-  - <br>
-  - <br>
-  - <br>
-  - <br>
-  - <br>
-
+  - Runners 450mm (18")<br>
+  - 2x 2020 335mm<br>
+  - 1x2020 90mm<br>
+  - 4x2060 50mm<br>
+  - 2x2040 300mm<br>
+  - 2x 2040 467mm<br>
+  - 1x 2020 261<br>
+  - 24x Corners<br>
+  - 6x WAGO (5way)<br>
+  - 467x302 tray (Mesh or Solid)<br>
+  - 1x 2040 75mm (for mounting HDMI5)<br>
+  - Drag Chain (not wider than 38mm - I used 10x30mm)<br><br>
 </td>
 </tr>
 </table>
