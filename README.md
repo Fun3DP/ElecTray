@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Assets/Full_CAD.jpg" alt='ElecTray' width='70%'>
+  <img src="/Assets/Assembly.jpg" alt='ElecTray' width='70%'>
   <h1 align="center">ElecTray</h1>
 </p>
 
