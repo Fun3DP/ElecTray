@@ -37,7 +37,7 @@ This is a personal project I’ve been working on for a while during my first Vo
 <tr>
 <td width=30%><img src="Assets/BOM.png" alt='ElecTray's BOM'></td>
 <td>
-Things you will need:
+Things you will need:<br>
   - <br>
   - <br>
   - <br>
@@ -63,11 +63,6 @@ I have created a CAD model for reference purposes only, allowing you to understa
 <td width=30%><img src="Assets/CAD.png" alt='ERCF Master CAD'></td>
 </tr>
 </table>
-
-<br>
-
-## FAQ
-ERCF v2 is currently in the RC1 phase.  That means that we hope the BOM and parts are complete, but there are still some areas of polish needed: documentation, kit availability, etc. Therefore, we're sure there will be lots of questions.  To avoid repetition on the various support channels, you can find a list of [frequently asked questions](FAQ.md) here.  If something isn't answered the best place to go is the [ERCF Discord server](https://discord.gg/MPZ4cHm9gm)
 
 <br>
 
@@ -104,6 +99,3 @@ The most vibrant prints ever seen!
 ![IMG_2447](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/52122c6a-e28c-4bd7-a8a8-324b2cc9a74f)
 
 <br>
-
-## User Print Showroom
-<img src="Assets/Showroom/Spidermans.png" alt="Spidermans" width="950"/><img src="Assets/Showroom/NoS_Prints.png" alt="NoS_prints" width="950"/><img src="Assets/Showroom/BnE_Prints.png" alt="BnE_Prints" width="950"/><img src=Assets/Showroom/Bimaterial_logo.png alt="Voron Logo TPU" width="650"/><img src=Assets/Showroom/9_colors_test.png alt="9_colors_test" width="400"/>
