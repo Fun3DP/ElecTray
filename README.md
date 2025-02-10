@@ -2,8 +2,7 @@
   <img src="/Assets/Main.png" alt='ElecTray' width='100%'>
 </p>
 
-<p align="center">
-<p><b>A drawer mod for the Voron 2.4's electronic components (350mm only)</b>
+<p align="center"><b>A drawer mod for the Voron 2.4's electronic components (350mm only)</b>
 </p>
 
 <br>
