@@ -37,13 +37,13 @@ This is a personal project I’ve been working on for a while during my first Vo
 <tr>
 <td width=30%><img src="Assets/BOM.png" alt='ElecTray's BOM'></td>
 <td>
-Things you will ned:
-  -
-  -
-  -
-  -
-  -
-  -
+Things you will need:
+  - <br>
+  - <br>
+  - <br>
+  - <br>
+  - <br>
+  - <br>
 
 </td>
 </tr>
@@ -68,62 +68,6 @@ I have created a CAD model for reference purposes only, allowing you to understa
 
 ## FAQ
 ERCF v2 is currently in the RC1 phase.  That means that we hope the BOM and parts are complete, but there are still some areas of polish needed: documentation, kit availability, etc. Therefore, we're sure there will be lots of questions.  To avoid repetition on the various support channels, you can find a list of [frequently asked questions](FAQ.md) here.  If something isn't answered the best place to go is the [ERCF Discord server](https://discord.gg/MPZ4cHm9gm)
-
-<br>
-
-## Acknowledgements
-Most importantly let me introduce the development, test and doc team.  A project like this doesn't happen without many hundreds of hours of volunteer effort and all of these folks are truely awesome.  Please give some :clap: :clap: :clap:
-<ul>
-  <li>@moggieuk V0.1503 | V2.4088 (Mr Happy Hare & Chief whip)
-  <li>@gneu V2.5345 (Filament block & bling innovator)
-  <li>@sneakytreesnake V2.3804 (The project backbone!)
-  <li>@mneuhaus VT.483 (Mr Binky)
-  <li>@Miriax (Designer & Doc Demon)
-  <li>@kinematicdigit VS.744 (Mr Cotton Tail & Doc Illustrator)
-  <li>@ningpj (Tester, Breaker & Documenter)
-  <li>@fizzy (King of CAD)
-  <li>@gsx8299 (Test Builder Extraordinaire)
-  <li>@sorted (Filametrix "don't get enraged" filament cutting system)
-  <li>@kierantheman (Mr ThumperBlocks)
-  <li>@Fragmon (Videographer)
-  <li>@Silverback V2.1356 (Filametrix tester, builder & engineer)
-</ul>
-
-<br>
-
-## Vendors
-<table>
-<tr>
-<td width=25%><img src="Assets/Certified.jpg" alt='Vendor Certification'></td>
-<td>
-These kits and specialty parts will have been checked by us and meet good quality standards. Pending Certification means it has met our first pass inspection and in the process of being verified as a V2 kit. <strong>WE DO NOT RECOMMEND PURCHASING KITS WITHOUT THE CERTIFICATION BY US. PLEASE CHECK BACK HERE FOR THE LIST OF AUTHORIZED VENDORS AND MANUFACTURERS</strong>:<br>
-<p>
-<ul>
-  <li> <strong>Certified - Siboor</strong>
-  </li>
-  <li> <strong>Certified - Triangle Labs</strong>
-  </li>
-  <li> <strong>Certified - Seleadlabs</strong>
-  </li>
-  <li> <strong>Certified -  Makerpanda</strong>
-  </li>
-  <li> <strong>Certified -  Fysetc</strong>
-  </li>
-  <li> Pending Certification - LDO Motors
-  </li>
-  <li> <strong>Certified - Dodo 3D Labs</strong>
-  </li>
-  
-  
-  <br>
-  <p>
-  A list of more official and certified vendors is on the way... stay tuned!
-</td>
-</tr>
-</table>
-
-**Manufacturers:**
-_If you want to be included, please contact us. We are happy to validate your kit/parts and then add you to the list._
 
 <br>
 
