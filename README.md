@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-A drawer mod for the Voron 2.4's electronic components (350mm only)
+<p><b>A drawer mod for the Voron 2.4's electronic components (350mm only)</b>
 </p>
 
 <br>
