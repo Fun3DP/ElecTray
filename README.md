@@ -42,8 +42,8 @@ Extrusions:<br>
   - x2 2040 467mm<br>
   - x1 2020 261<br>
   - x1 2040 75mm (for BTT HDMI5 Mount)<br>
-  - x24 90 Degree Angle Corner (at least x6 must be like this:<br>
-    https://ooznest.co.uk/product/90-degree-angle-corner/ )<br>
+  - x24 90 Degree Angle Corner (at least x6 must be like this below):<br>
+    https://ooznest.co.uk/product/90-degree-angle-corner/<br>
 Other:<br>
   - x6 WAGO (5way)<br>
   - 467x302 tray (Mesh or Solid)<br>
