@@ -14,12 +14,8 @@ A drawer mod for Voron's 2.4 electronic components (350mm only)
 <tr>
 <td width=30%><img src="/Assets/ElecTray.png"</td>
 <td>
-This is a community-born project and a major update to the Voron ERCF MMU that was started a couple of years ago by Ette.  It is endorsed by Ette, and the guiding philosophy wasn't to start again with a new MMU design but to refine what has already proven to be a very capable machine and push it to be the best it can be by simplifying problematic construction, improving reliability and aligning as close as possible to v1.1 BOM. However, the project includes an all-new optional integrated filament buffer system (ERCT), filament cutter option (ERF), a collection of recommended tool head sensor modifications and a bit of Bling! It fully leverages the Happy Hare firmware MMU control software with Klipper Screen extensions.
+This is a little project I’ve been working on for a while during my first Voron build. I have a heavily modified Sidewinder X2 printer, and having good access to electronics was my top priority when upgrading it. So, I took the same approach with the Voron 2.4. This mod has already proven to be very useful and convenient, as I’ve already needed access to rectify certain issues.
 <p>
-  
-There is a rapidly growing list of MMUs in the marketplace, from the mass-produced "Fords" who pioneered the market to the "Toyota" that are more recent efficient engineering feat but somehow lacked soul. We consider ERCFv2 the "BMW" - a little over-engineered perhaps but distinctively cool, and you feel good driving it.  We hope you enjoy it! &nbsp;&nbsp; Videos: [Teaser](https://www.youtube.com/watch?v=U2QwvPacIUk) &nbsp; [Release](https://www.youtube.com/watch?v=EJCPerBsM3Q)
-</td>
-</tr>
 </table>
 
 ## Table of Content
