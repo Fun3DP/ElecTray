@@ -11,7 +11,7 @@ A drawer mod for the Voron 2.4's electronic components (350mm only)
 
 <table>
 <tr>
-<td width=30%><img src="/Assets/Assembly.png"</td>
+<td width=50%><img src="/Assets/Assembly.png"</td>
 <td>
 This is a personal project I’ve been working on for a while during my first Voron build. I also have a heavily modified Sidewinder X2 printer, where easy access to electronics was my top priority during upgrades. With that in mind, I took the same approach when working on my Voron 2.4. This modification has already proven to be highly useful and convenient, as it has allowed me to quickly access and rectify certain issues as they arise.
 <p>
