@@ -33,16 +33,16 @@ This is a personal project I’ve been working on for a while during my first Vo
 <td>
 Things you will need:<br>
   - Runners 450mm (18")<br>
-  - 2x 2020 335mm<br>
-  - 1x2020 90mm<br>
-  - 4x2060 50mm<br>
-  - 2x2040 300mm<br>
-  - 2x 2040 467mm<br>
-  - 1x 2020 261<br>
-  - 24x Corners<br>
-  - 6x WAGO (5way)<br>
+  - x2 2020 335mm<br>
+  - x1 2020 90mm<br>
+  - x4 2060 50mm<br>
+  - x2 2040 300mm<br>
+  - x2 2040 467mm<br>
+  - x1 2020 261<br>
+  - x24 Corners Joints<br>
+  - x6 WAGO (5way)<br>
   - 467x302 tray (Mesh or Solid)<br>
-  - 1x 2040 75mm (for mounting HDMI5)<br>
+  - x1 2040 75mm (for BTT HDMI5 Mount)<br>
   - Drag Chain (not wider than 38mm - I used 10x30mm)<br><br>
 </td>
 </tr>
