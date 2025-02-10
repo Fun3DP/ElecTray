@@ -1,4 +1,3 @@
-# ElecTray
 <p align="center">
   <img src="/Assets/Full_CAD.jpg" alt='ElecTray' width='70%'>
   <h1 align="center">ElecTray</h1>
