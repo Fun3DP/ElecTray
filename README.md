@@ -98,7 +98,7 @@ I have created a CAD model for reference purposes only, allowing you to understa
 <br>
 
 ## Build Photos
-![20231116_230501](https://github.com/Fun3DP/ElecTray/assets/Build01)
+![Build Photo](Assets/Build01.jpg)
 ![20231116_211032](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/971ceefa-8946-438d-9de7-a26cfcdae56b)
 ![20231116_214903](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/5781d748-67eb-44f2-a793-cf8f4229b99f)
 ![20231116_211045](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/5df5f56e-9424-42d0-9985-a84c04d67c12)
