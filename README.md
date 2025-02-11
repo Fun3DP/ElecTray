@@ -51,12 +51,13 @@ This is a personal project I’ve been working on for a while during my first Vo
   - Drag Chain (not wider than 38mm - I used 10x30mm)<br>
 </td>
 </tr>
+
 </table>
 
 <br>
 
 ## STL
-I have modified the necessary models, such as the skirting, to ensure they fit the modification properly. Additionally, I have designed and created new models as needed to facilitate the project's progress. These include an adapter for the Manta M8P board, slightly modified WAGO shelves to better suit the updated design, and a refined BTT HDMI 5" mount for improved compatibility (source...). Each modification was made to enhance functionality, optimize integration, and ensure seamless assembly within the updated setup<br>
+I have modified the necessary models, such as the skirting, to ensure they fit the modification properly. Additionally, I have designed and created new models as needed to facilitate the project's progress. These include an adapter for the Manta M8P board, slightly modified WAGO shelves to better suit the updated design, and a refined BTT HDMI 5" mount for improved compatibility. Each modification was made to enhance functionality, optimize integration, and ensure seamless assembly within the updated setup<br>
 
 <br>
 
@@ -73,7 +74,8 @@ I have created a CAD model for reference purposes only, allowing you to understa
 <td width=30%><img src="Assets/CAD_Rear_Angle.png"</td>
 </tr>
 </table>
-
+<p align="center">YELLOW components need printing as they are either new or modified.</p><br>
+<p align="center">BLUE components need purchasing if you don't have them.</p><br>
 <br>
 
 ## Changelog
