@@ -30,7 +30,7 @@ This is a personal project I’ve been working on for a while during my first Vo
 <tr>
 <td width=50%><img src="Assets/BOM.png" alt='ElecTray's BOM'></td>
 <td>
-<font size="10">
+<font size="2">
 <b>Things you will need:</b><br>
   - Drawer Runners 450mm (18")<br>
 <b>Extrusions:</b><br>
