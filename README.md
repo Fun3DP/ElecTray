@@ -98,22 +98,21 @@ I have created a CAD model for reference purposes only, allowing you to understa
 <br>
 
 ## Build Photos
-<img src="Assets/Build01.jpg" alt="Build Photo" width="30%">
-![Build Photo](Assets/Build01.jpg)
-![Build Photo](Assets/Build02.jpg)
-![Build Photo](Assets/Build03.jpg)
-![Build Photo](Assets/Build04.jpg)
-![Build Photo](Assets/Build05.jpg)
-![Build Photo](Assets/Build06.jpg)
-![Build Photo](Assets/Build07.jpg)
-![Build Photo](Assets/Build08.jpg)
-![Build Photo](Assets/Build09.jpg)
-![Build Photo](Assets/Build10.jpg)
-![Build Photo](Assets/Build11.jpg)
-![Build Photo](Assets/Build12.jpg)
-![Build Photo](Assets/Build13.jpg)
-![Build Photo](Assets/Build14.jpg)
-![Build Photo](Assets/Build15.jpg)
-![Build Photo](Assets/Build16.jpg)
-![Build Photo](Assets/Build17.jpg)
+<img src="Assets/Build01.jpg" alt="Build Photo 01" width="30%">
+<img src="Assets/Build02.jpg" alt="Build Photo 02" width="30%">
+<img src="Assets/Build03.jpg" alt="Build Photo 03" width="30%">
+<img src="Assets/Build04.jpg" alt="Build Photo 04" width="30%">
+<img src="Assets/Build05.jpg" alt="Build Photo 05" width="30%">
+<img src="Assets/Build06.jpg" alt="Build Photo 06" width="30%">
+<img src="Assets/Build07.jpg" alt="Build Photo 07" width="30%">
+<img src="Assets/Build08.jpg" alt="Build Photo 08" width="30%">
+<img src="Assets/Build09.jpg" alt="Build Photo 09" width="30%">
+<img src="Assets/Build10.jpg" alt="Build Photo 10" width="30%">
+<img src="Assets/Build11.jpg" alt="Build Photo 11" width="30%">
+<img src="Assets/Build12.jpg" alt="Build Photo 12" width="30%">
+<img src="Assets/Build13.jpg" alt="Build Photo 13" width="30%">
+<img src="Assets/Build14.jpg" alt="Build Photo 14" width="30%">
+<img src="Assets/Build15.jpg" alt="Build Photo 15" width="30%">
+<img src="Assets/Build16.jpg" alt="Build Photo 16" width="30%">
+<img src="Assets/Build17.jpg" alt="Build Photo 17" width="30%">
 
