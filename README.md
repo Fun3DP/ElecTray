@@ -67,7 +67,7 @@ I have modified the necessary models, such as the skirting, to ensure they fit t
 I have created a CAD model for reference purposes only, allowing you to understand its construction, visualize its design, and see how it functions. While it is not intended for direct use, it provides a detailed overview of the mod’s structure and mechanics
 <p>
 
-[Master CAD](CAD)
+[Take me to it!](CAD)
 </td>
 <td width=30%><img src="Assets/CAD_Front_Angle.png"</td>
 <td width=30%><img src="Assets/CAD_Rear_Angle.png"</td>
