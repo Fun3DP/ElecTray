@@ -101,8 +101,9 @@ I have created a CAD model for reference purposes only, allowing you to understa
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="Assets/Build01.jpg" alt="Build Photo 01" width="30%">
     <img src="Assets/Build02.jpg" alt="Build Photo 02" width="30%">
-    <img src="Assets/Build03.jpg" alt="Build Photo 03" width="30%">
     <img src="Assets/Build04.jpg" alt="Build Photo 04" width="30%">
+    <img src="Assets/Build03.jpg" alt="Build Photo 03" width="30%">
+    <img src="Assets/Build15.jpg" alt="Build Photo 15" width="30%">
     <img src="Assets/Build05.jpg" alt="Build Photo 05" width="30%">
     <img src="Assets/Build06.jpg" alt="Build Photo 06" width="30%">
     <img src="Assets/Build07.jpg" alt="Build Photo 07" width="30%">
@@ -113,7 +114,6 @@ I have created a CAD model for reference purposes only, allowing you to understa
     <img src="Assets/Build12.jpg" alt="Build Photo 12" width="30%">
     <img src="Assets/Build13.jpg" alt="Build Photo 13" width="30%">
     <img src="Assets/Build14.jpg" alt="Build Photo 14" width="30%">
-    <img src="Assets/Build15.jpg" alt="Build Photo 15" width="30%">
     <img src="Assets/Build16.jpg" alt="Build Photo 16" width="30%">
     <img src="Assets/Build17.jpg" alt="Build Photo 17" width="30%">
 </div>
