@@ -18,8 +18,9 @@ This is a personal project I’ve been working on for a while during my first Vo
 ## Table of Content
   
 **[BOM](#bom)**<br>
-**[CAD](#cad)**<br>
 **[STL](#stl)**<br>
+**[CAD](#cad)**<br>
+**[Credits](#credits)**<br>
 **[Changelog](#changelog)**<br>
 **[Build Photos](#build-photos)**<br>
 
@@ -32,9 +33,9 @@ This is a personal project I’ve been working on for a while during my first Vo
 <td>
 <b>Things you will need:</b><br>
   - Drawer Runners 450mm (18")<br>
-  - x54 M5x8 BHCS (for extrusions, HDMI5")<br>
-  - x10 M5x6 BHCS (for drawer runners and tray)<br>
-  - x56 M5 Spring T-Nuts (all extrusions, tray)<br>
+  - x56 M5x8 BHCS<br>
+  - x10 M5x6 BHCS<br>
+  - x62 M5 Spring T-Nuts<br>
 <b>Extrusions:</b><br>
   - x2 2020 335mm<br>
   - x1 2020 90mm<br>
@@ -75,11 +76,18 @@ I have created a CAD model for reference purposes only, allowing you to understa
 </tr>
 </table>
 
-<p>This is a <span style="color: yellow;">yellow</span> word.</p>
 <p align="center">YELLOW components need printing as they are either new or modified.</p>
 <p align="center">BLUE components need purchasing if you don't have them.</p>
 <p align="center">RED components are stock models that don't require re-printing or purchasing.</p>
 <br>
+
+<br>
+
+## Credits
+<ul>
+  <li> Many thanks to @EDnation at (https://www.printables.com/@EDnation) for sharing his BTT HDMI5" v1.2 mount at https://www.printables.com/model/926845-btt-hdmi5-v12-display-mount-voron . I have modified one part to fit this modification.</li><br>
+</ul>
+
 
 ## Changelog
 <ul>
