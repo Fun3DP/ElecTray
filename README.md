@@ -98,7 +98,8 @@ I have created a CAD model for reference purposes only, allowing you to understa
 <br>
 
 ## Build Photos
-width=30%>![Build Photo](Assets/Build01.jpg)
+<img src="Assets/Build01.jpg" alt="Build Photo" width="30%">
+![Build Photo](Assets/Build01.jpg)
 ![Build Photo](Assets/Build02.jpg)
 ![Build Photo](Assets/Build03.jpg)
 ![Build Photo](Assets/Build04.jpg)
