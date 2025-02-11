@@ -75,9 +75,10 @@ I have created a CAD model for reference purposes only, allowing you to understa
 </tr>
 </table>
 
-<n align="center">YELLOW components need printing as they are either new or modified.<br></n>
-<n align="center">BLUE components need purchasing if you don't have them.<br>
-<n align="center">RED components are stock models that don't require re-printing or purchasing.<br>
+<n style="text-align:center">YELLOW components need printing as they are either new or modified.<br>
+<n style="text-align:center">BLUE components need purchasing if you don't have them.<br>
+<n style="text-align:center">RED components are stock models that don't require re-printing or purchasing.<br>
+</n>
 <br>
 
 ## Changelog
