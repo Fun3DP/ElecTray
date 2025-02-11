@@ -59,6 +59,7 @@ This is a personal project I’ve been working on for a while during my first Vo
 
 ## STL
 I have modified the necessary models, such as the skirting, to ensure they fit the modification properly. Additionally, I have designed and created new models as needed to facilitate the project's progress. These include an adapter for the Manta M8P board, slightly modified WAGO shelves to better suit the updated design, and a refined BTT HDMI 5" mount for improved compatibility. Each modification was made to enhance functionality, optimize integration, and ensure seamless assembly within the updated setup<br>
+I recommend to print those parts with the same settings as Voron parts. I have used ASA for mine, therefore I'd recommend to use ABS/ASA.
 
 <br>
 
