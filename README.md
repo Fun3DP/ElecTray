@@ -75,6 +75,7 @@ I have created a CAD model for reference purposes only, allowing you to understa
 </tr>
 </table>
 
+<p>This is a <span style="color: yellow;">yellow</span> word.</p>
 <p align="center">YELLOW components need printing as they are either new or modified.</p>
 <p align="center">BLUE components need purchasing if you don't have them.</p>
 <p align="center">RED components are stock models that don't require re-printing or purchasing.</p>
