@@ -30,15 +30,17 @@ This is a personal project I’ve been working on for a while during my first Vo
 <tr>
 <td width=50%><img src="Assets/BOM.png" alt='ElecTray's BOM'></td>
 <td>
-<font size="2">
 <b>Things you will need:</b><br>
   - Drawer Runners 450mm (18")<br>
+  - x52 M5x8 BHCS (for extrusions)<br>
+  - x10 M5x6 BHCS (for drawer runners and tray)<br>
+  - x54 M5 Spring T-Nuts (all extrusions, tray)
 <b>Extrusions:</b><br>
   - x2 2020 335mm<br>
   - x1 2020 90mm<br>
   - x4 2060 50mm<br>
   - x2 2040 300mm<br>
-  - x2 2040 467mm<br>
+  - x2 2040 467mm (threaded one side)<br>
   - x1 2020 261<br>
   - x1 2040 75mm (for BTT HDMI5 Mount)<br>
   - x24 90 Degree Angle Corner (at least x6 must be like this below):<br>
@@ -47,7 +49,6 @@ This is a personal project I’ve been working on for a while during my first Vo
   - x6 WAGO (5way)<br>
   - 467x302 tray (Mesh or Solid)<br>
   - Drag Chain (not wider than 38mm - I used 10x30mm)<br>
-</font size="2">
 </td>
 </tr>
 </table>
