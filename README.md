@@ -32,9 +32,9 @@ This is a personal project I’ve been working on for a while during my first Vo
 <td>
 <b>Things you will need:</b><br>
   - Drawer Runners 450mm (18")<br>
-  - x52 M5x8 BHCS (for extrusions)<br>
+  - x54 M5x8 BHCS (for extrusions)<br>
   - x10 M5x6 BHCS (for drawer runners and tray)<br>
-  - x54 M5 Spring T-Nuts (all extrusions, tray)
+  - x56 M5 Spring T-Nuts (all extrusions, tray)<br>
 <b>Extrusions:</b><br>
   - x2 2020 335mm<br>
   - x1 2020 90mm<br>
