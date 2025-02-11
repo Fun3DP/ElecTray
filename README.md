@@ -30,9 +30,9 @@ This is a personal project I’ve been working on for a while during my first Vo
 <tr>
 <td width=50%><img src="Assets/BOM.png" alt='ElecTray's BOM'></td>
 <td>
-<b>Things you will need:<b><br>
+<b>Things you will need:</b>b><br>
   - Drawer Runners 450mm (18")<br>
-<b>Extrusions:<b><br>
+<b>Extrusions:</b>b><br>
   - x2 2020 335mm<br>
   - x1 2020 90mm<br>
   - x4 2060 50mm<br>
