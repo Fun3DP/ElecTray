@@ -69,7 +69,8 @@ I have created a CAD model for reference purposes only, allowing you to understa
 
 [Master CAD](CAD)
 </td>
-<td width=30%><img src="Assets/CAD.png" alt='ERCF Master CAD'></td>
+<td width=30%><img src="Assets/CAD_Front_Angle.png"</td>
+<td width=30%><img src="Assets/CAD_Rear_Angle.png"</td>
 </tr>
 </table>
 
