@@ -54,8 +54,8 @@ This is a personal project I’ve been working on for a while during my first Vo
   - Drag Chain (around 700mm legth, not wider than 38mm - I used 10x30mm)<br>
 </td>
 </tr>
-* I used this to mount the BTT HDMI5 to the mesh; however, you might prefer a different mount or a different mounting method.
 </table>
+* I used this to mount the BTT HDMI5 to the mesh; however, you might prefer a different mount or a different mounting method.
 
 <br>
 
