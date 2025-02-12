@@ -33,27 +33,29 @@ This is a personal project I’ve been working on for a while during my first Vo
 <td>
 <b>Things you will need:</b><br>
   - Drawer Runners 450mm (18")<br>
-  - x56 M5x8 BHCS<br>
+  - x60 M5x8 BHCS<br>
   - x10 M5x6 BHCS<br>
-  - x62 M5 Spring T-Nuts<br>
+  - x4 M3x6 SHCS<br>
+  - x50 M5 Spring T-Nuts<br>
+  - x6 M3 Spring T-Nuts<br>
 <b>Extrusions:</b><br>
-  - x2 2020 335mm<br>
-  - x1 2020 90mm<br>
+  - x2 2020 335mm (threaded both sides)<br>
+  - x1 2020 90mm (threaded both sides)<br>
   - x4 2060 50mm<br>
   - x2 2040 300mm<br>
   - x2 2040 467mm (threaded one side)<br>
-  - x1 2020 261<br>
-  - x1 2040 75mm (for BTT HDMI5 Mount)<br>
+  - x1 2020 261mm<br>
+  - x1 2040 75mm (optional*)<br>
   - x24 90 Degree Angle Corner (at least x6 must be like this below):<br>
     https://ooznest.co.uk/product/90-degree-angle-corner/<br>
 <b>Other:</b><br>
   - x6 WAGO (5way)<br>
   - 467x302 tray (Mesh or Solid)<br>
-  - Drag Chain (not wider than 38mm - I used 10x30mm)<br>
+  - Drag Chain (around 700mm legth, not wider than 38mm - I used 10x30mm)<br>
 </td>
 </tr>
-
 </table>
+* I used this to mount the BTT HDMI5 to the mesh; however, you might prefer a different mount or a different mounting method.
 
 <br>
 
