@@ -61,9 +61,18 @@ This is a personal project I’ve been working on for a while during my first Vo
 <br>
 
 ## STL
+<table>
+<tr>
+<td>
 I have modified the necessary models, such as the skirting, to ensure they fit the modification properly. Additionally, I have designed and created new models as needed to facilitate the project's progress. These include an adapter for the Manta M8P board, slightly modified WAGO shelves to better suit the updated design, and a refined BTT HDMI 5" mount for improved compatibility. Each modification was made to enhance functionality, optimize integration, and ensure seamless assembly within the updated setup<br>
 I recommend printing these parts with the same settings as Voron parts. I used ASA for mine, so I’d recommend using ABS or ASA.
+<p>
 
+[Take me to it!](STL)
+</td>
+<td width=30%><img src="Assets/STL.png"</td>
+</tr>
+</table>
 <br>
 
 ## CAD
