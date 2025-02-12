@@ -45,17 +45,18 @@ This is a personal project I’ve been working on for a while during my first Vo
   - x2 2040 300mm<br>
   - x2 2040 467mm (threaded one side)<br>
   - x1 2020 261mm<br>
-  - x1 2040 75mm (optional*)<br>
+  - x1 2040 75mm (optional)*<br>
   - x24 90 Degree Angle Corner (at least x6 must be like this below):<br>
     https://ooznest.co.uk/product/90-degree-angle-corner/<br>
 <b>Other:</b><br>
-  - x6 WAGO (5way)<br>
+  - x6 WAGO (5way)**<br>
   - 467x302 tray (Mesh or Solid)<br>
   - Drag Chain (around 700mm legth, not wider than 38mm - I used 10x30mm)<br>
 </td>
 </tr>
 </table>
-* I used this to mount the BTT HDMI5 to the mesh; however, you might prefer a different mount or a different mounting method.
+* I used this to mount the BTT HDMI5 to the mesh; however, you might prefer a different mount or a different mounting method.<br>
+** The ones I used were knockoffs; therefore, the 'shelf' is slightly altered. For the original ones, you might want to use Voron's original design.<br>
 
 <br>
 
