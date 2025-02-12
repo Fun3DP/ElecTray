@@ -51,7 +51,7 @@ This is a personal project I’ve been working on for a while during my first Vo
 <b>Other:</b><br>
   - x6 WAGO (5way)**<br>
   - 467x302 tray (Mesh or Solid)<br>
-  - Drag Chain (around 700mm legth, not wider than 38mm - I used 10x30mm)<br>
+  - Drag Chain (around 700mm length, not wider than 38mm - I used 10x30mm)<br>
 </td>
 </tr>
 </table>
