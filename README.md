@@ -52,6 +52,7 @@ This is a personal project I’ve been working on for a while during my first Vo
   - x6 WAGO (5way)**<br>
   - 467x302 tray (Mesh or Solid)<br>
   - Drag Chain (around 700mm length, not wider than 38mm - I used 10x30mm)<br>
+  - 0.25 and 0.5 wires for extensions (Z motors, endstops etc.)<br>
 </td>
 </tr>
 </table>
