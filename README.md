@@ -20,7 +20,7 @@ This is a personal project I’ve been working on for a while during my first Vo
 **[BOM](#bom)**<br>
 **[STL](#stl)**<br>
 **[CAD](#cad)**<br>
-**[Brief Instruction Video](#brief-instruction-video)**<br>
+**[Brief instructional video](#brief-instructional-video)**<br>
 **[Credits](#credits)**<br>
 **[Changelog](#changelog)**<br>
 **[Build Photos](#build-photos)**<br>
@@ -98,9 +98,9 @@ I have created a CAD model for reference purposes only, allowing you to understa
 
 <br>
 
-## Brief Instruction Video
+## Brief Instructional Video
 <ul>
-  <li> 
+  <li> https://youtu.be/mlNWbNNKiyI
 </ul>
 
 ## Credits
