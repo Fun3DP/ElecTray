@@ -35,9 +35,9 @@ This is a personal project I’ve been working on for a while during my first Vo
 <b>Things you will need:</b><br>
   - Drawer Runners 450mm (18")<br>
   - x60 M5x8 BHCS<br>
-  - x10 M5x6 BHCS<br>
+  - x12 M5x6 BHCS<br>
   - x4 M3x6 SHCS<br>
-  - x50 M5 Spring T-Nuts<br>
+  - x52 M5 Spring T-Nuts<br>
   - x6 M3 Spring T-Nuts<br>
 <b>Extrusions:</b><br>
   - x2 2020 335mm (threaded both sides)<br>
